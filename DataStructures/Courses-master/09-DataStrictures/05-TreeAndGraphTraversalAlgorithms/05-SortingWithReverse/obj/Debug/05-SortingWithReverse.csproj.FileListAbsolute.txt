@@ -1,0 +1,6 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\05-SortingWithReverse\bin\Debug\05-SortingWithReverse.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\05-SortingWithReverse\bin\Debug\05-SortingWithReverse.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\05-SortingWithReverse\bin\Debug\05-SortingWithReverse.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\05-SortingWithReverse\obj\Debug\05-SortingWithReverse.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\05-SortingWithReverse\obj\Debug\05-SortingWithReverse.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\05-SortingWithReverse\obj\Debug\05-SortingWithReverse.pdb

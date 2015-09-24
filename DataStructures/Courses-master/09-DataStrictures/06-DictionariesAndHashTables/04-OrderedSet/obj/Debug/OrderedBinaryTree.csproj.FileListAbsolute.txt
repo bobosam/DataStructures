@@ -1,0 +1,12 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\LinearDataStructures\OrderedBinaryTree\bin\Debug\OrderedBinaryTree.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\LinearDataStructures\OrderedBinaryTree\bin\Debug\OrderedBinaryTree.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\LinearDataStructures\OrderedBinaryTree\bin\Debug\OrderedBinaryTree.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\LinearDataStructures\OrderedBinaryTree\obj\Debug\OrderedBinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\LinearDataStructures\OrderedBinaryTree\obj\Debug\OrderedBinaryTree.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\LinearDataStructures\OrderedBinaryTree\obj\Debug\OrderedBinaryTree.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\04-OrderedSet\bin\Debug\OrderedBinaryTree.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\04-OrderedSet\obj\Debug\OrderedBinaryTree.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\04-OrderedSet\obj\Debug\OrderedBinaryTree.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\04-OrderedSet\obj\Debug\OrderedBinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\04-OrderedSet\bin\Debug\OrderedBinaryTree.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\04-OrderedSet\bin\Debug\OrderedBinaryTree.pdb

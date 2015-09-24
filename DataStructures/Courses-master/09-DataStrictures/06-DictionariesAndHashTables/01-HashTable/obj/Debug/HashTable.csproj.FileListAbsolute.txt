@@ -1,0 +1,5 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\00-HashTable\bin\Debug\HashTable.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\00-HashTable\bin\Debug\HashTable.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\00-HashTable\obj\Debug\HashTable.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\00-HashTable\obj\Debug\HashTable.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\00-HashTable\obj\Debug\HashTable.pdb

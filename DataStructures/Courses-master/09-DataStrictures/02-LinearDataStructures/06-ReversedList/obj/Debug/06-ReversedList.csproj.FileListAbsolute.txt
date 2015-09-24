@@ -1,0 +1,6 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\06-ReversedList\bin\Debug\06-ReversedList.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\06-ReversedList\bin\Debug\06-ReversedList.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\06-ReversedList\bin\Debug\06-ReversedList.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\06-ReversedList\obj\Debug\06-ReversedList.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\06-ReversedList\obj\Debug\06-ReversedList.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\06-ReversedList\obj\Debug\06-ReversedList.pdb

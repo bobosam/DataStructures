@@ -1,0 +1,6 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\01-WhoIsTheRoot\bin\Debug\01-WhoIsTheRoot.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\01-WhoIsTheRoot\bin\Debug\01-WhoIsTheRoot.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\01-WhoIsTheRoot\bin\Debug\01-WhoIsTheRoot.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\01-WhoIsTheRoot\obj\Debug\01-WhoIsTheRoot.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\01-WhoIsTheRoot\obj\Debug\01-WhoIsTheRoot.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\01-WhoIsTheRoot\obj\Debug\01-WhoIsTheRoot.pdb

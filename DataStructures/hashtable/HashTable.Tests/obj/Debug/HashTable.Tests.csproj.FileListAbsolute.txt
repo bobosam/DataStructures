@@ -1,0 +1,7 @@
+C:\Users\Bobo\Desktop\hashtable\HashTable.Tests\bin\Debug\HashTable.Tests.dll
+C:\Users\Bobo\Desktop\hashtable\HashTable.Tests\bin\Debug\HashTable.Tests.pdb
+C:\Users\Bobo\Desktop\hashtable\HashTable.Tests\bin\Debug\HashTable.exe
+C:\Users\Bobo\Desktop\hashtable\HashTable.Tests\bin\Debug\HashTable.pdb
+C:\Users\Bobo\Desktop\hashtable\HashTable.Tests\obj\Debug\HashTable.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\Desktop\hashtable\HashTable.Tests\obj\Debug\HashTable.Tests.dll
+C:\Users\Bobo\Desktop\hashtable\HashTable.Tests\obj\Debug\HashTable.Tests.pdb

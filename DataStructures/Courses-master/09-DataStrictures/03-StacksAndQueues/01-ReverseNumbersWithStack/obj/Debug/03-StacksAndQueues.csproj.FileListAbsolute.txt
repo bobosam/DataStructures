@@ -1,0 +1,6 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\03-StacksAndQueues\bin\Debug\03-StacksAndQueues.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\03-StacksAndQueues\bin\Debug\03-StacksAndQueues.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\03-StacksAndQueues\bin\Debug\03-StacksAndQueues.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\03-StacksAndQueues\obj\Debug\03-StacksAndQueues.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\03-StacksAndQueues\obj\Debug\03-StacksAndQueues.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\03-StacksAndQueues\obj\Debug\03-StacksAndQueues.pdb

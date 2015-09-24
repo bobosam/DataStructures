@@ -1,0 +1,6 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\02-TraverseAndSaveDirectory\bin\Debug\02-TraverseAndSaveDirectory.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\02-TraverseAndSaveDirectory\bin\Debug\02-TraverseAndSaveDirectory.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\02-TraverseAndSaveDirectory\bin\Debug\02-TraverseAndSaveDirectory.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\02-TraverseAndSaveDirectory\obj\Debug\02-TraverseAndSaveDirectory.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\02-TraverseAndSaveDirectory\obj\Debug\02-TraverseAndSaveDirectory.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\02-TraverseAndSaveDirectory\obj\Debug\02-TraverseAndSaveDirectory.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\01-PlayWithTrees\bin\Debug\01-PlayWithTrees.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\01-PlayWithTrees\bin\Debug\01-PlayWithTrees.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\01-PlayWithTrees\bin\Debug\01-PlayWithTrees.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\01-PlayWithTrees\obj\Debug\01-PlayWithTrees.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\01-PlayWithTrees\obj\Debug\01-PlayWithTrees.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\01-PlayWithTrees\obj\Debug\01-PlayWithTrees.csprojResolveAssemblyReference.cache

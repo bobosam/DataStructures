@@ -1,0 +1,6 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\03-LongestSubsequence\bin\Debug\03-LongestSubsequence.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\03-LongestSubsequence\bin\Debug\03-LongestSubsequence.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\03-LongestSubsequence\bin\Debug\03-LongestSubsequence.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\03-LongestSubsequence\obj\Debug\03-LongestSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\03-LongestSubsequence\obj\Debug\03-LongestSubsequence.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\03-LongestSubsequence\obj\Debug\03-LongestSubsequence.pdb

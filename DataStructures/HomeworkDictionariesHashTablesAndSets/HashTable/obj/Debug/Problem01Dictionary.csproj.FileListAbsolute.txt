@@ -1,0 +1,5 @@
+C:\Users\Bobo\Desktop\DataStructures\HomeworkDictionariesHashTablesAndSets\HashTable\bin\Debug\HashTable.exe
+C:\Users\Bobo\Desktop\DataStructures\HomeworkDictionariesHashTablesAndSets\HashTable\bin\Debug\HashTable.pdb
+C:\Users\Bobo\Desktop\DataStructures\HomeworkDictionariesHashTablesAndSets\HashTable\obj\Debug\Problem01Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\Desktop\DataStructures\HomeworkDictionariesHashTablesAndSets\HashTable\obj\Debug\HashTable.exe
+C:\Users\Bobo\Desktop\DataStructures\HomeworkDictionariesHashTablesAndSets\HashTable\obj\Debug\HashTable.pdb

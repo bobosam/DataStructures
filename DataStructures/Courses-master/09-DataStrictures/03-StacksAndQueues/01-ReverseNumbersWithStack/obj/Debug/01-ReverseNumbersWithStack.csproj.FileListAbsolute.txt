@@ -1,0 +1,6 @@
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\01-ReverseNumbersWithStack\bin\Debug\03-StacksAndQueues.exe.config
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\01-ReverseNumbersWithStack\bin\Debug\03-StacksAndQueues.exe
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\01-ReverseNumbersWithStack\bin\Debug\03-StacksAndQueues.pdb
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\01-ReverseNumbersWithStack\obj\Debug\01-ReverseNumbersWithStack.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\01-ReverseNumbersWithStack\obj\Debug\03-StacksAndQueues.exe
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\01-ReverseNumbersWithStack\obj\Debug\03-StacksAndQueues.pdb

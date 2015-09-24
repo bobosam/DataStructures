@@ -1,0 +1,8 @@
+C:\Users\Bobo\Desktop\DataStructures\HomeworkDictionariesHashTablesAndSets\Problem02CountSymbols\bin\Debug\Problem02CountSymbols.exe.config
+C:\Users\Bobo\Desktop\DataStructures\HomeworkDictionariesHashTablesAndSets\Problem02CountSymbols\bin\Debug\Problem02CountSymbols.exe
+C:\Users\Bobo\Desktop\DataStructures\HomeworkDictionariesHashTablesAndSets\Problem02CountSymbols\bin\Debug\Problem02CountSymbols.pdb
+C:\Users\Bobo\Desktop\DataStructures\HomeworkDictionariesHashTablesAndSets\Problem02CountSymbols\bin\Debug\HashTable.exe
+C:\Users\Bobo\Desktop\DataStructures\HomeworkDictionariesHashTablesAndSets\Problem02CountSymbols\bin\Debug\HashTable.pdb
+C:\Users\Bobo\Desktop\DataStructures\HomeworkDictionariesHashTablesAndSets\Problem02CountSymbols\obj\Debug\Problem02CountSymbols.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\Desktop\DataStructures\HomeworkDictionariesHashTablesAndSets\Problem02CountSymbols\obj\Debug\Problem02CountSymbols.exe
+C:\Users\Bobo\Desktop\DataStructures\HomeworkDictionariesHashTablesAndSets\Problem02CountSymbols\obj\Debug\Problem02CountSymbols.pdb

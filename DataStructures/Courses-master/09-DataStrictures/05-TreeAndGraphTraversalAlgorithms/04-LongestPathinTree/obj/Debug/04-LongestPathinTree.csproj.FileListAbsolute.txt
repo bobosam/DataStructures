@@ -1,0 +1,6 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\04-LongestPathinTree\bin\Debug\04-LongestPathinTree.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\04-LongestPathinTree\bin\Debug\04-LongestPathinTree.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\04-LongestPathinTree\bin\Debug\04-LongestPathinTree.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\04-LongestPathinTree\obj\Debug\04-LongestPathinTree.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\04-LongestPathinTree\obj\Debug\04-LongestPathinTree.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\04-LongestPathinTree\obj\Debug\04-LongestPathinTree.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\04-RemoveOddOccurences\bin\Debug\04-RemoveOddOccurences.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\04-RemoveOddOccurences\bin\Debug\04-RemoveOddOccurences.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\04-RemoveOddOccurences\bin\Debug\04-RemoveOddOccurences.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\04-RemoveOddOccurences\obj\Debug\04-RemoveOddOccurences.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\04-RemoveOddOccurences\obj\Debug\04-RemoveOddOccurences.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\04-RemoveOddOccurences\obj\Debug\04-RemoveOddOccurences.pdb

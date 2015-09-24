@@ -1,0 +1,7 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\04-ArrayStack.Tests\bin\Debug\04-ArrayStack.Tests.dll
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\04-ArrayStack.Tests\bin\Debug\04-ArrayStack.Tests.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\04-ArrayStack.Tests\bin\Debug\03-ArrayStack.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\04-ArrayStack.Tests\bin\Debug\03-ArrayStack.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\04-ArrayStack.Tests\obj\Debug\04-ArrayStack.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\04-ArrayStack.Tests\obj\Debug\04-ArrayStack.Tests.dll
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\04-ArrayStack.Tests\obj\Debug\04-ArrayStack.Tests.pdb

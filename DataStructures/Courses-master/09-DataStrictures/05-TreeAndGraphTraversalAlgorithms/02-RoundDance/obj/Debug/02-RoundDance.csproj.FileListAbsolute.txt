@@ -1,0 +1,7 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\02-RoundDance\bin\Debug\02-RoundDance.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\02-RoundDance\bin\Debug\02-RoundDance.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\02-RoundDance\bin\Debug\02-RoundDance.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\02-RoundDance\bin\Debug\02-RoundDance.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\02-RoundDance\obj\Debug\02-RoundDance.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\02-RoundDance\obj\Debug\02-RoundDance.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\02-RoundDance\obj\Debug\02-RoundDance.pdb

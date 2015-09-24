@@ -1,0 +1,7 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\06-LinkedStack.Tests\bin\Debug\06-LinkedStackTests.dll
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\06-LinkedStack.Tests\bin\Debug\06-LinkedStackTests.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\06-LinkedStack.Tests\bin\Debug\05-LinkedStack.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\06-LinkedStack.Tests\bin\Debug\05-LinkedStack.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\06-LinkedStack.Tests\obj\Debug\06-LinkedStack.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\06-LinkedStack.Tests\obj\Debug\06-LinkedStackTests.dll
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\06-LinkedStack.Tests\obj\Debug\06-LinkedStackTests.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\05-LinkedStack\bin\Debug\05-LinkedStack.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\05-LinkedStack\bin\Debug\05-LinkedStack.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\05-LinkedStack\bin\Debug\05-LinkedStack.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\05-LinkedStack\obj\Debug\05-LinkedStack.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\05-LinkedStack\obj\Debug\05-LinkedStack.pdb

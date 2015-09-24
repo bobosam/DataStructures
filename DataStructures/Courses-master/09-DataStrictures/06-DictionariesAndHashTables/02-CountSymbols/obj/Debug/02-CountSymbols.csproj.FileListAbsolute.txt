@@ -1,0 +1,11 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\02-CountSymbols\bin\Debug\02-CountSymbols.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\02-CountSymbols\bin\Debug\02-CountSymbols.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\02-CountSymbols\bin\Debug\02-CountSymbols.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\02-CountSymbols\bin\Debug\HashTable.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\02-CountSymbols\bin\Debug\HashTable.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\02-CountSymbols\obj\Debug\02-CountSymbols.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\02-CountSymbols\obj\Debug\02-CountSymbols.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\02-CountSymbols\obj\Debug\02-CountSymbols.pdb
+C:\Users\Bobo\Desktop\DataStructures\Courses-master\09-DataStrictures\06-DictionariesAndHashTables\02-CountSymbols\bin\Debug\02-CountSymbols.exe.config
+C:\Users\Bobo\Desktop\DataStructures\Courses-master\09-DataStrictures\06-DictionariesAndHashTables\02-CountSymbols\obj\Debug\02-CountSymbols.exe
+C:\Users\Bobo\Desktop\DataStructures\Courses-master\09-DataStrictures\06-DictionariesAndHashTables\02-CountSymbols\obj\Debug\02-CountSymbols.pdb

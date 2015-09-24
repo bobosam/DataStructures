@@ -1,0 +1,7 @@
+C:\Users\Dimcho\Desktop\DataStructures\Exercises\4. Trees\Binary-Tree\bin\Debug\Trees.exe
+C:\Users\Dimcho\Desktop\DataStructures\Exercises\4. Trees\Binary-Tree\bin\Debug\Trees.pdb
+C:\Users\Dimcho\Desktop\DataStructures\Exercises\4. Trees\Binary-Tree\obj\Debug\Trees.exe
+C:\Users\Dimcho\Desktop\DataStructures\Exercises\4. Trees\Binary-Tree\obj\Debug\Trees.pdb
+C:\Users\Dimcho\Desktop\DataStructures\Exercises\4. Trees\Binary-Tree\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\00-BinaryTree\obj\Debug\Trees.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\00-BinaryTree\obj\Debug\Trees.pdb

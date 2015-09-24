@@ -1,0 +1,12 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\04-Trees\bin\Debug\04-Trees.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\04-Trees\bin\Debug\04-Trees.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\04-Trees\bin\Debug\04-Trees.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\04-Trees\obj\Debug\03-CalculateArithmeticExpression.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\04-Trees\obj\Debug\04-Trees.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\04-Trees\obj\Debug\04-Trees.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\03-CalculateArithmeticExpression\bin\Debug\04-Trees.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\03-CalculateArithmeticExpression\obj\Debug\04-Trees.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\03-CalculateArithmeticExpression\obj\Debug\04-Trees.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\03-CalculateArithmeticExpression\bin\Debug\04-Trees.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\03-CalculateArithmeticExpression\bin\Debug\04-Trees.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\03-CalculateArithmeticExpression\obj\Debug\03-CalculateArithmeticExpression.csprojResolveAssemblyReference.cache

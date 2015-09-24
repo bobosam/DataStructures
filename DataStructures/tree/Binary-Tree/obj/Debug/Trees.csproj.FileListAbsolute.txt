@@ -1,0 +1,5 @@
+C:\Users\Bobo\Desktop\tree\Binary-Tree\bin\Debug\Trees.exe
+C:\Users\Bobo\Desktop\tree\Binary-Tree\bin\Debug\Trees.pdb
+C:\Users\Bobo\Desktop\tree\Binary-Tree\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\Desktop\tree\Binary-Tree\obj\Debug\Trees.exe
+C:\Users\Bobo\Desktop\tree\Binary-Tree\obj\Debug\Trees.pdb

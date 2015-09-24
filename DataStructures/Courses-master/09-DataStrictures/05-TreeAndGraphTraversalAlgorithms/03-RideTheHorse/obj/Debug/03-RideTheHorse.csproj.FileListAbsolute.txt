@@ -1,0 +1,6 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\03-RideTheHorse\bin\Debug\03-RideTheHorse.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\03-RideTheHorse\obj\Debug\03-RideTheHorse.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\03-RideTheHorse\bin\Debug\03-RideTheHorse.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\03-RideTheHorse\bin\Debug\03-RideTheHorse.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\03-RideTheHorse\obj\Debug\03-RideTheHorse.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\03-RideTheHorse\obj\Debug\03-RideTheHorse.pdb

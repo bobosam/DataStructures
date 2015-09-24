@@ -1,0 +1,6 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\05-CountOfOccurences\bin\Debug\05-CountOfOccurences.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\05-CountOfOccurences\bin\Debug\05-CountOfOccurences.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\05-CountOfOccurences\bin\Debug\05-CountOfOccurences.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\05-CountOfOccurences\obj\Debug\05-CountOfOccurences.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\05-CountOfOccurences\obj\Debug\05-CountOfOccurences.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\05-CountOfOccurences\obj\Debug\05-CountOfOccurences.pdb

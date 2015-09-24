@@ -1,0 +1,5 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\00-DFS-Graph-Traversal\bin\Debug\Graph-Traversal.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\00-DFS-Graph-Traversal\bin\Debug\Graph-Traversal.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\00-DFS-Graph-Traversal\obj\Debug\00-DFS-Graph-Traversal.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\00-DFS-Graph-Traversal\obj\Debug\Graph-Traversal.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\05-TreeAndGraphTraversalAlgorithms\00-DFS-Graph-Traversal\obj\Debug\Graph-Traversal.pdb

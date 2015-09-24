@@ -1,0 +1,12 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\09-SequenceNM\bin\Debug\09-SequenceNM.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\09-SequenceNM\bin\Debug\09-SequenceNM.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\09-SequenceNM\bin\Debug\09-SequenceNM.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\09-SequenceNM\obj\Debug\09-SequenceNM.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\09-SequenceNM\obj\Debug\09-SequenceNM.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\03-StacksAndQueues\09-SequenceNM\obj\Debug\09-SequenceNM.pdb
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\09-SequenceNM\bin\Debug\09-SequenceNM.exe.config
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\09-SequenceNM\obj\Debug\09-SequenceNM.exe
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\09-SequenceNM\obj\Debug\09-SequenceNM.pdb
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\09-SequenceNM\bin\Debug\09-SequenceNM.exe
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\09-SequenceNM\bin\Debug\09-SequenceNM.pdb
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\09-SequenceNM\obj\Debug\09-SequenceNM.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\00-BinaryTree.Tests\bin\Debug\Trees.Tests.dll
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\00-BinaryTree.Tests\bin\Debug\Trees.Tests.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\00-BinaryTree.Tests\bin\Debug\Trees.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\00-BinaryTree.Tests\bin\Debug\Trees.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\00-BinaryTree.Tests\obj\Debug\00-Trees.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\00-BinaryTree.Tests\obj\Debug\Trees.Tests.dll
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\04-Trees\00-BinaryTree.Tests\obj\Debug\Trees.Tests.pdb

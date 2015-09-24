@@ -1,0 +1,7 @@
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\00-CircularQueue.Tests\bin\Debug\00-CircularQueue.Tests.dll
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\00-CircularQueue.Tests\bin\Debug\00-CircularQueue.Tests.pdb
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\00-CircularQueue.Tests\bin\Debug\00-CircularQueue.dll
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\00-CircularQueue.Tests\bin\Debug\00-CircularQueue.pdb
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\00-CircularQueue.Tests\obj\Debug\00-CircularQueue.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\00-CircularQueue.Tests\obj\Debug\00-CircularQueue.Tests.dll
+C:\Users\Dimcho\Desktop\DataStructures\Homework\SENT\03-StacksAndQueues\00-CircularQueue.Tests\obj\Debug\00-CircularQueue.Tests.pdb

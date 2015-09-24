@@ -1,0 +1,6 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\08-DistanceInLabyrinth\bin\Debug\08-DistanceInLabyrinth.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\08-DistanceInLabyrinth\bin\Debug\08-DistanceInLabyrinth.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\08-DistanceInLabyrinth\bin\Debug\08-DistanceInLabyrinth.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\08-DistanceInLabyrinth\obj\Debug\08-DistanceInLabyrinth.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\08-DistanceInLabyrinth\obj\Debug\08-DistanceInLabyrinth.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\02-LinearDataStructures\08-DistanceInLabyrinth\obj\Debug\08-DistanceInLabyrinth.pdb

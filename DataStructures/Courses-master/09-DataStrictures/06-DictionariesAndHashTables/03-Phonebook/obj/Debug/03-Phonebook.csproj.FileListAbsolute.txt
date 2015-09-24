@@ -1,0 +1,11 @@
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\03-Phonebook\bin\Debug\03-Phonebook.exe.config
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\03-Phonebook\bin\Debug\03-Phonebook.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\03-Phonebook\bin\Debug\03-Phonebook.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\03-Phonebook\bin\Debug\HashTable.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\03-Phonebook\bin\Debug\HashTable.pdb
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\03-Phonebook\obj\Debug\03-Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\03-Phonebook\obj\Debug\03-Phonebook.exe
+C:\Users\Dimcho\Documents\Visual Studio 2013\Projects\02_DataStructures\06-DictionariesAndHashTables\03-Phonebook\obj\Debug\03-Phonebook.pdb
+C:\Users\Bobo\Desktop\DataStructures\Courses-master\09-DataStrictures\06-DictionariesAndHashTables\03-Phonebook\bin\Debug\03-Phonebook.exe.config
+C:\Users\Bobo\Desktop\DataStructures\Courses-master\09-DataStrictures\06-DictionariesAndHashTables\03-Phonebook\obj\Debug\03-Phonebook.exe
+C:\Users\Bobo\Desktop\DataStructures\Courses-master\09-DataStrictures\06-DictionariesAndHashTables\03-Phonebook\obj\Debug\03-Phonebook.pdb
